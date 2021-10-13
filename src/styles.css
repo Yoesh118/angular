@@ -35,6 +35,11 @@ body {
 .btn:focus {
   outline: none;
 }
+
+.bottom{
+  margin-bottom: 30px;
+}
+
 .btn:active {
   transform: scale(0.98);
 }
